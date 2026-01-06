@@ -17,7 +17,7 @@ Estructura del proyecto
 
 Cómo abrir
 ----------
-1. Abrir el archivo [index.html](index.html) en un navegador (doble clic o arrastrar al navegador).
+1. Abrir el archivo [index.html](JordanMurillo-AdrianRamirez_Eva_1/index.html) en un navegador (doble clic o arrastrar al navegador).
 2. No requiere servidor ni dependencias externas.
 
 Notas
